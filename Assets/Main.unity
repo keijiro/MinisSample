@@ -249,8 +249,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   testAction:
     m_Name: Test
-    m_Type: 0
-    m_ExpectedControlType: 
+    m_Type: 1
+    m_ExpectedControlType: Button
     m_Id: 4e1afdfa-8f55-45f4-86ac-8d57c4f804a3
     m_Processors: 
     m_Interactions: 
@@ -310,7 +310,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!23 &517540851
 MeshRenderer:
   m_ObjectHideFlags: 0
